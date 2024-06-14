@@ -21,7 +21,7 @@ Add some file and replace the file so it's similar to my repository
 **1. Start the development server:**
 
 ```bash
-npm run dev -w examples-vanilla
+npm run dev 
 ```
 
 Open [http://localhost:5173](http://localhost:5173/boox/demo/vanilla) in your browser to see the search app in action.
@@ -29,5 +29,5 @@ Open [http://localhost:5173](http://localhost:5173/boox/demo/vanilla) in your br
 **2. Build for Production:**
 
 ```bash
-npm run build -w examples-vanilla
+npm run build 
 ```
